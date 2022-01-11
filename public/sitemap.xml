@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.arief.ca/cv/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/posts/mlflow_server/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/posts/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.arief.ca/categories/</loc>
+  </url><url>
+    <loc>http://www.arief.ca/contact/</loc>
+  </url><url>
+    <loc>http://www.arief.ca/about/</loc>
+  </url><url>
+    <loc>http://www.arief.ca/projects/</loc>
+  </url><url>
+    <loc>http://www.arief.ca/publications/</loc>
+  </url><url>
+    <loc>http://www.arief.ca/series/</loc>
+  </url>
+</urlset>

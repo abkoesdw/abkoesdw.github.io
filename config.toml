@@ -1,0 +1,94 @@
+baseURL = "http://www.arief.ca"
+title = "ariefkoesdwiady"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+author = "Arief Koesdwiady"
+description = "Arief's personal website"
+keywords = "blog, developer, personal"
+info = ["AI/ML Engineer", "Data Scientist", "Husband", "Father", "Bedroom Guitarist"]
+avatarURL = "images/arief_transparent.png"
+rtl = false
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[[params.social]]
+name = "Youtube"
+icon = "fa fa-2x fa-youtube"
+weight = 1
+url = "https://www.youtube.com/user/abekaabeka"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/abkoesdw"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/ariefbarkahkoesdwiady/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 4
+url = "https://www.instagram.com/ariefbarkah/"
+
+[[params.social]]
+name = "Facebook"
+icon = "fa fa-2x fa-facebook"
+weight = 4
+url = "https://www.facebook.com/abkoesdw/"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Publications"
+weight = 2
+url = "publications/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 4
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
+
+
+

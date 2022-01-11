@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ariefkoesdwiady</title>
+    <link>http://www.arief.ca/</link>
+    <description>Recent content on ariefkoesdwiady</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.arief.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://www.arief.ca/cv/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Private MLFlow Server for Your Team Using Docker, NginX, and Postgress</title>
+      <link>http://www.arief.ca/posts/mlflow_server/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/posts/mlflow_server/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.arief.ca/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Hi</title>
+      <link>http://www.arief.ca/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/about/</guid>
+      <description>I&amp;rsquo;m Arief, an Indonesian living in Canada. I currently work as a Machine Learning Engineer/Data Scientist for General Motors Canada.
+Previously, I worked at Cognitech as a Machine Learning Engineer in Waterloo. My work consisted of designing a multi-keyword speech recognition algorithm and an anomaly detection model for industrial time-series data.
+Before that, I was a research assistant at the Centre of Pattern Analysis and Machine Intelligence, University of Waterloo, where I built an ML-based driver distraction detection technology for the next generation of Advanced Driver-Assistance Systems (ADAS).</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.arief.ca/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/projects/</guid>
+      <description>Unmanned Aerial Vehicle Tracking Control   Unmanned Ground Vehicle with a Robotic Arm and a Riffle  Reverse-Osmosis Solar-Powered Water Desalination    .row { display: flex; flex-wrap: wrap; padding: 0 4px; } /* Create four equal columns that sits next to each other */ .column { flex: 33%; max-width: 33%; padding: 0 4px; } .column img { margin-top: 8px; vertical-align: middle; width: 100%; } /* Responsive layout - makes a two column-layout instead of four columns */ @media screen and (max-width: 800px) { .</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.arief.ca/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arief.ca/publications/</guid>
+      <description>Google Scholar • DBLP    Theses     Arief Koesdwiady. &amp;ldquo;Large-Scale Traffic Flow Prediction Using Deep Learning in the Context of Smart Mobility&amp;rdquo;. Doctoral Dissertation, University of Waterloo, 2018. [link] Arief Koesdwiady. &amp;ldquo;Immersion and Invariance Control Design for Unmanned Aerial Vehicle&amp;rdquo;. Master Thesis, King Fahd University of Petroleum and Minerals, 2013. [link] Arief Koesdwiady. &amp;ldquo;Development of a 3D-Image Electric Tomography Data Acquisition System for Cylindrical Object Image Reconstructions&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
