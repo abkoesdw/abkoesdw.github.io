@@ -53,4 +53,4 @@ Check out my [Resume](/files/AriefCV.pdf).
     * IEEE Transactions on Cybernetics.
     * International Journal of Robotics and Automation.
     * Control and Intelligent Systems Journal.
-    * International Conference on Image Analysis and Recognition.AI ML
+    * International Conference on Image Analysis and Recognition.
