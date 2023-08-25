@@ -8,15 +8,15 @@ author = "Arief Koesdwiady"
 I'm Arief, an Indonesian living in the US, previously in Canada. 
 
 ## Experience
-* Applied Scientist II at Amazon (Now)
-* Tech Lead - AI/ML at General Motors
-* Senior AI Scientist at General Motors
-* AI Scientist at General Motors
-* Machine Learning Engineer at Cognitech
-* Research/Teaching Assistant at University of Waterloo
-* Research Assistant at King Fahd University of Petroleum and Minerals
-* Graduate Development Trainee at Freeport mining company
-* Intern at Telekomunikasi Indonesia
+* Applied Scientist II at Amazon, 2023 - Now
+* Tech Lead - AI/ML at General Motors, 2021 - 2023
+* Senior AI Scientist at General Motors, 2019 - 2020
+* AI Scientist at General Motors, 2018
+* Machine Learning Engineer at Cognitech, 2016 - 2018
+* Research/Teaching Assistant at University of Waterloo, 2014 - 2018
+* Research Assistant at King Fahd University of Petroleum and Minerals, 2010 - 2013
+* Graduate Development Trainee at Freeport mining company, 2008
+* Intern at Telekomunikasi Indonesia, 2007
 
 ## Education
 * PhD, Computer Engineering, University of Waterloo, Canada
