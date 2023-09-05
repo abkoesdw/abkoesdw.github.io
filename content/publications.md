@@ -16,8 +16,8 @@ author = "Arief Koesdwiady"
 * Magdi S.Mahmoud, Arief Koesdwiady "Improved digital tracking controller design for pilot-scale unmanned helicopter". Journal of the Franklin Institute 349.1 (2012): 42-58. **Impact Factor: 4.504** [[link]](https://www.sciencedirect.com/science/article/pii/S0016003211002742)
 
 ## Patents
-* Multimodal occupant-seat mapping for safety and personalization applications [[US20230047872A1]]([https://uwspace.uwaterloo.ca/handle/10012/13168](https://patents.google.com/patent/US20230047872A1/en))
-* Intelligent charging systems and control logic for crowdsourced vehicle energy transfer [[US20230144986A1]]([https://uwspace.uwaterloo.ca/handle/10012/13168](https://patents.google.com/patent/US20230144986A1/en))
+* Multimodal occupant-seat mapping for safety and personalization applications [US20230047872A1](https://patents.google.com/patent/US20230047872A1/en)
+* Intelligent charging systems and control logic for crowdsourced vehicle energy transfer [US20230144986A1](https://patents.google.com/patent/US20230144986A1/en)
   
 ## Book Chapters
 * Arief Koesdwiady, Sami Elferik, and Fakhri Karray. "Adaptive Control for Directional Drilling Systems with Delay and Parameter Uncertainty". Robot Intelligence Technology and Applications 4. Springer, Cham, 2017. 123-140 [[link]](https://link.springer.com/chapter/10.1007/978-3-319-31293-4_11)
